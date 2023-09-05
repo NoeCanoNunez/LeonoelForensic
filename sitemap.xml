@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://leonoel-forensic.com/</loc>
+  <lastmod>2022-11-21T15:20:06+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://leonoel-forensic.com/nosotros.html</loc>
+  <lastmod>2022-11-21T15:20:06+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://leonoel-forensic.com/https://leonoel-forensic.com/servicios.html</loc>
+  <lastmod>2022-11-21T15:20:06+00:00</lastmod>
+  <priority>0.85</priority>
+</url>
+<url>
+  <loc>https://leonoel-forensic.com/contacto.html</loc>
+  <lastmod>2022-11-21T15:20:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://leonoel-forensic.com/legal.html</loc>
+  <lastmod>2022-11-21T15:20:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
