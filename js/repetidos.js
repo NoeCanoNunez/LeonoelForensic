@@ -16,7 +16,7 @@ $(".cajaicons").append(`      <div class="iconrs">
   </a>
 </div>
 <div class="iconrsd">
-  <a class="iconrsp" href="https://t.me/handguns12" target="_blank" ><img src="./img/Icons/iconTelegram.svg">
+  <a class="iconrsp" href="https://t.me/+SlUgxrWRRn1GZsMr" target="_blank" ><img src="./img/Icons/iconTelegram.svg">
   </a>
 </div>
 </div>`);
